@@ -1,2 +1,12 @@
-ZNX
-ZNXHUBS
+return {
+    ["HWID"] = {
+        ["90C04B89-B0F6-4C62-8B8B-45D676FCB815"] = {
+            key = "OM",
+            user = "user1"
+        },
+        ["def456"] = {
+            key = "key2",
+            user = "user2"
+        }
+    }
+}
